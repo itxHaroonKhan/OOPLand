@@ -43,7 +43,7 @@ This project demonstrates the fundamental principles of **Object-Oriented Progra
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/oop-project.git
+git clone https://github.com/itxHaroonKhan/OOPLand
 
 # Navigate into the project folder
 cd oop-project
