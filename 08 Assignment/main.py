@@ -7,6 +7,9 @@
 
 
 #Parent class
+import utils.http_session
+import utils.transport
+import utils.session
 class person:
     def __init__(self,name):
         self.name = name
